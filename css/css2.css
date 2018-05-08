@@ -1,0 +1,204 @@
+body {
+  text-align: center
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  color: #343a40; 흑연색
+}
+
+a, 
+a:visited, 
+a:link {
+  text-decoration: none;
+  color: #ede8e1;
+}
+
+a:hover, 
+a:focus,
+a:active {
+  text-decoration: none;
+  color: #bcb2a4;
+}
+
+.header a {
+  color: #c47f33;
+}
+
+.header a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: #8c5519;
+}
+
+.line {
+  border: 5px solid #95989b;
+  padding-bottom: 100px;
+}
+
+.bg-basic {
+  background-color:#5e5a54 !important;
+}
+
+.img-kdh {
+  border-radius: 100%;
+  width: 130px;
+  height: 170px;
+  border: 5px solid gray;
+}
+
+.img-profile {
+  width: 130px;
+  height: 170px;
+  border: 5px solid gray;
+}
+
+.basic_list {
+  width: 65%;
+}
+
+.index {
+  display: block;
+}
+
+.link {
+  font-family: 'Do Hyeon', '고딕체', 'Saira Extra Condensed', serif;
+  font-size: 25px;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.link2 {
+  font-family: 'Do Hyeon', '고딕체', 'Saira Extra Condensed', serif;
+  font-size: 15px;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.text-basic {
+  color: #c47f33 !important;
+}
+
+.header {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Do Hyeon', '고딕체', 'Saira Extra Condensed', serif;
+  font-size: 25px;
+}
+
+table{
+  align-self: left;
+  border: solid 5px #bcb2a4; 
+  border-collapse:collapse; 
+  width:50%;
+}
+
+
+
+th{
+  width: 100px;
+  text-align: center;
+  border-top:solid 1px #bcb2a4;
+  border-right: solid 0px white; 
+  color: #369;
+  background-color: #f3f6f7;
+  font-family: 'Do Hyeon', '고딕체', 'Saira Extra Condensed', serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding:8px
+}
+
+td{
+  text-align: left;
+  border:solid 1px #bcb2a4; 
+  color: #343a40; 
+  font-family: 'Do Hyeon', '고딕체', 'Saira Extra Condensed', serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding:8px; 
+  padding-left:10px; 
+}
+
+.tdcenter{
+  text-align: center;
+}
+
+.td1{
+  background-color:white;
+}
+
+.log{
+  width: 100px;
+  background-color: #f2be85;
+}
+
+.board table{
+  align-self: left;
+  border: solid 5px #bcb2a4; 
+  border-collapse:collapse; 
+  width:80%;
+}
+
+.board th{
+  font-weight: bold;
+  text-align: left;
+  border-top:solid 1px #bcb2a4;
+  border-bottom: 3px solid #036;
+  border-right: solid 0px white; 
+  background-color: #f3f6f7;
+  color: #369; 
+  font-family: 'Do Hyeon', '고딕체', 'Saira Extra Condensed', serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding:8px
+}
+
+.board td{
+  text-align: left;
+  border:solid 1px #bcb2a4; 
+  color: #343a40; 
+  font-family: 'Do Hyeon', '고딕체', 'Saira Extra Condensed', serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding:8px; 
+  padding-left:10px; 
+}
+
+input {
+  color: #343a40; 
+  font-family: 'Do Hyeon', '고딕체', 'Saira Extra Condensed', serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.check{
+  width: 80px; 
+  vertical-align: bottom;
+}
+
+.jhj{
+  width:550px; 
+  background-color: #343a40; 
+  color: white;
+}
+
+.td1{
+  width: 8%
+}
+
+.td2{
+  width: 62%
+}
+
+.td3{
+  width: 20%
+}
+
+.td4{
+  width: 10%
+}
